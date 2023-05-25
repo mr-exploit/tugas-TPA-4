@@ -1,0 +1,1 @@
+UPDATE kategori SET  nama_kategori ='barang langka' WHERE id_kategori='20';

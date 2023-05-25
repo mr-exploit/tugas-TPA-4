@@ -1,0 +1,20 @@
+INSERT INTO `produk` (`nama_produk`,`harga`, `stok_produk`, `id_kategori`)
+VALUES
+('uang kertas 100 lama', '50000', '10', '15'),
+('emas 1gr', '850000', '50', '25'),
+('vaseline 100gr', '50000', '100', '25'),
+('sepatu jordan size 42', '1500000', '15', '10'),
+('baju koko', '250000', '100', '12'),
+('teko kuno', '2500000', '2', '20'),
+('celana chino', '75000', '50', '5'),
+('baju batik', '150000', '200', '17'),
+('keyboard warna-warni', '150000', '40', '27'),
+('laptop thinkpad l440', '3500000', '30', '22'),
+('laptop macbook m1', '15000000', '10', '22'),
+('makanan kucing 100gr', '25000', '80', '27'),
+('karpet unyu-unyu', '150000', '30', '30'),
+('charge vivan 20w', '50000', '30', '22'),
+('monitor acher 22inchi', '1500000', '10', '22'),
+('tas sekolah kece badai', '150000', '40', '27'),
+('tas selempang', '50000', '100', '30'),
+('setrika', '225000', '15', '22');
